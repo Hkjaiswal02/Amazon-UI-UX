@@ -18,7 +18,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("/image/logo2.png");
+    background-image: url("image/logo2.png");
     background-position-y: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -138,7 +138,7 @@ span{
     cursor: pointer;
 }
 .paneldeals{
-    background-image: url("/image/shopnow.png");
+    background-image: url("image/shopnow.png");
     background-repeat: no-repeat;
     background-size:contain;
     height: 40px;
@@ -150,7 +150,7 @@ span{
 /* herosection */
 
 .herosection{
-    background-image: url("/image/hero.jpg");
+    background-image: url("image/hero.jpg");
     background-size: cover;
     height: 300px;
     display: flex;
@@ -266,7 +266,7 @@ ul a{
 }
 
 .footlogo{
-    background-image: url("/image/amazonlogo.png");
+    background-image: url("image/amazonlogo.png");
     background-size: cover;
     width: 100px;
     height: 50px;
